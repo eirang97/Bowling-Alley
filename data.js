@@ -26,36 +26,36 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.03095551026507337,
-          "pitch": -0.00602984396119588,
+          "yaw": 0.20225765446140187,
+          "pitch": 0.00020928847057000155,
           "rotation": 0.7853981633974483,
           "target": "1-bowling-alley-1"
         },
         {
-          "yaw": -0.9487346270570676,
-          "pitch": 0.06930705064214493,
+          "yaw": -0.8903617007745979,
+          "pitch": 0.049525001175521055,
           "rotation": 0,
           "target": "2-bowling-alley-2"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 1.8476308676766138,
-          "pitch": 0.07678290087794615,
-          "title": "Bulletin Boards",
-          "text": "Displays information about UBC Intramurals, including sign-ups for sports teams and general university news."
-        },
-        {
-          "yaw": -2.0209467021696312,
-          "pitch": 0.14090237398121275,
-          "title": "Archade Game Machines",
-          "text": "For students to relax, have fun, and take a break between classes. They offer a casual space to play, socialize, and unwind on campus."
-        },
-        {
-          "yaw": -1.3022106765987225,
-          "pitch": 0.11715939442440515,
+          "yaw": -1.250125209051875,
+          "pitch": 0.11276056458603811,
           "title": "Information Desk",
-          "text": "Students can sign up or join waitlists to reserve bowling lanes, arcade game machines, and billiard tables."
+          "text": "Students can sign-up and join waitlist for bowling slots, arcade game machines and billiard tables"
+        },
+        {
+          "yaw": -2.159446409297482,
+          "pitch": 0.17182887749347842,
+          "title": "Arcade Game Machines",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.8233318683143924,
+          "pitch": 0.06542103577124081,
+          "title": "Bulletin Boards",
+          "text": "Information about tournaments, intramurals and general campus news."
         }
       ]
     },
@@ -85,24 +85,24 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.027672026411988,
-          "pitch": 0.011778260343227487,
-          "rotation": 7.0685834705770345,
+          "yaw": -2.919015473228006,
+          "pitch": 0.030337273570379963,
+          "rotation": 5.497787143782138,
+          "target": "0-bowling-alley-0"
+        },
+        {
+          "yaw": -2.013847164332084,
+          "pitch": 0.009640235867466984,
+          "rotation": 0.7853981633974483,
           "target": "2-bowling-alley-2"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.4843187896898673,
-          "pitch": 0.14819611985944903,
+          "yaw": 0.5635958653346886,
+          "pitch": 0.11707050563584787,
           "title": "Bowling Alley",
-          "text": "A unique on-campus bowling alley for students to play and hang out."
-        },
-        {
-          "yaw": -2.378123704649731,
-          "pitch": 0.022900982942944736,
-          "title": "Information desk",
-          "text": "Students can sign up or join waitlists to reserve bowling lanes, arcade game machines, and billiard tables."
+          "text": "Text"
         }
       ]
     },
@@ -132,24 +132,24 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.35954161696185416,
-          "pitch": 0.005629415630510337,
+          "yaw": 2.02843036109844,
+          "pitch": 0.02535677495060007,
+          "rotation": 0,
+          "target": "0-bowling-alley-0"
+        },
+        {
+          "yaw": 0.3591665368717525,
+          "pitch": 0.033859010579073257,
           "rotation": 0,
           "target": "3-bowling-alley-3"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.9992201791944773,
-          "pitch": 0.03589217895309105,
-          "title": "Bulletin Boards",
-          "text": "<span style=\"caret-color: rgba(0, 0, 0, 0);\">Displays information about UBC Intramurals, including sign-ups for sports teams and general university news.</span>"
-        },
-        {
-          "yaw": 0.057769125109489394,
-          "pitch": 0.07416393663996601,
-          "title": "Billiard Alley",
-          "text": "Student-friendly billiard alley ready to be reserved."
+          "yaw": -2.841372362119831,
+          "pitch": 0.08388253530096534,
+          "title": "Bulleting Boards",
+          "text": "Information about tournaments, intramurals and general campus news."
         }
       ]
     },
@@ -179,27 +179,27 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 2.6551217783838705,
-          "pitch": 0.04191307806300415,
+          "yaw": 2.6332750854439055,
+          "pitch": 0.028883980116241048,
           "rotation": 0,
           "target": "2-bowling-alley-2"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.8986901367082609,
-          "pitch": 0.12600675590028843,
-          "title": "Standard Billiard Table",
-          "text": "Join the Waitlist now!"
+          "yaw": 0.19439644597547634,
+          "pitch": 0.1611926151053602,
+          "title": "Standard Billiard Tables",
+          "text": "Text"
         }
       ]
     }
   ],
-  "name": "Bowling Alley",
+  "name": "Project Title",
   "settings": {
-    "mouseViewMode": "qtvr",
+    "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
